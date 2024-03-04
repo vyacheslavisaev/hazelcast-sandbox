@@ -1,0 +1,10 @@
+hazelcast:
+  cluster-name: dev
+    metrics:
+        enabled: true
+        management-center:
+            enabled: true
+            retention-seconds: 5
+        jmx:
+            enabled: true
+            collection-frequency-seconds: 5

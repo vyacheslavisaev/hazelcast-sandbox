@@ -1,0 +1,2 @@
+PUT localhost:8080/put?key=key1&value=hazelcast
+
